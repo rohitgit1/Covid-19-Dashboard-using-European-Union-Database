@@ -18,3 +18,5 @@ COVID-19 Dashboard using business intelligence software Tableau.
 ✅ Created Sets and Top 10 Calculations
 
 ✅ Check and audited the data
+
+https://public.tableau.com/profile/rohit.singh1676#!/vizhome/COVID-19DashboardbyRohitSingh/COVID-19Dashboard?publish=yes
